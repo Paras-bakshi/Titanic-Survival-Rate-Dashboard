@@ -10,8 +10,7 @@ Libraries used
 1. Pandas 
 2. Numpy 
 3. Plotly(plotly.figure_factory, plotly.offline, plotly.graph_objs, plotly.express) 
-
-4.Streamlit
+4. Streamlit
 
  I have explained all the Charts and representation that I used in the dashboard in the report. The Screenshots of the report are as follows:
  Calculated observations observations:-
