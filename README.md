@@ -14,23 +14,18 @@ Libraries used
 
  I have explained all the Charts and representation that I used in the dashboard in the report. The Screenshots of the report are as follows:
  Calculated observations observations:-
+ 
  Number of Fist class Passenger Survived : 120
- 
  Number of Second class Passenger Survived : 83
- 
  Number of  class Passenger Survived : 85
 
  Number of Fist class Passenger Deaths: 64
- 
  Number of Second class Passenger Deaths: 90
- 
  Number of Third class Passenger Deaths: 270
 
 Number of Fist class Passenger Deaths: 34
-
- Number of Second class Passenger Deaths: 10
- 
- Number of Third class Passenger Deaths:20
+Number of Second class Passenger Deaths: 10
+Number of Third class Passenger Deaths:20
  
  
 <img width="276" alt="1" src="https://user-images.githubusercontent.com/63099028/181269326-ed993f66-b59b-479a-bdd7-b43f5393f0e1.PNG">
